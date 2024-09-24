@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @FightFK
-- 👀 I’m interested in Web App Programming
-- 🌱 I’m currently learning Prince of Songkla University
+# Hi, I’m @FightFK 👋
+
+## About Me
+- 🌍 I’m interested in **Web App Programming**
+- 🎓 I’m currently learning at **Prince of Songkla University**
 
 
 
