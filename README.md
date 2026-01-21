@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 I’m interested in **Web App Programming**, **Cyber Security** AND **AI**
-- 🎓 I’m currently learning at **Prince of Songkla University**
+- 🎓 I’m currently learning at **Prince of Songkla University** IN **Computer Science**
 
 
 
